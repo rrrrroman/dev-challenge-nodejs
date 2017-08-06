@@ -1,0 +1,29 @@
+{
+  "name": "dev-challenge",
+  "version": "1.0.0",
+  "description": "Automate the dev challenge without human interaction",
+  "main": "start.js",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.5.0",
+    "opn": "^5.1.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "thisplace"
+  ],
+  "author": "Karim Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme"
+}
